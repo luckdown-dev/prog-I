@@ -11,6 +11,7 @@ int main (){
         if(n1<=0){
             printf("\nValor invalido! Por favor informe outro valor\n\n");
         }
+        
     } while (n1<=0);
     
     do{
@@ -20,6 +21,7 @@ int main (){
         if(n2<=0){
             printf("\nValor invalido! Por favor informe outro valor\n\n");
         }
+        
     } while (n2<=0);
 
     for(contador1=n1; contador1<=n2; contador1++){
